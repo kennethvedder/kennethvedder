@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kennethvedder
-- 👀 I’m a game designer and cofounder at @cynder-studios...
+- 👀 I’m a cofounder and game designer at @cynder-studios...
 - 📫 You can reach me at kennethvedder@me.com and cynderstudios.com
 
 <!---
