@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennethvedder
 - 👀 I’m a cofounder and game designer at @cynder-studios...
-- 📫 You can reach me at kennethvedder@me.com and cynderstudios.com
+- 📫 You can reach me at kennethvedder@me.com or cynderstudios.com
 
 <!---
 kennethvedder/kennethvedder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
